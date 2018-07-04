@@ -1,0 +1,1 @@
+Simple RESTful api implementation using Node.js, Express, Mongoose and MongoDB 
